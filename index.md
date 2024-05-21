@@ -1,5 +1,3 @@
-# Katie Bardsley
-
 ![Katie Bardsley](img/Bardsley_Headshot.JPG "Katie Bardsley")
 
 ## Welcome to my personal webpage!
