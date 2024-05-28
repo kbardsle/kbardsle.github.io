@@ -5,4 +5,5 @@ I am currently a PhD student in the University of Colorado Boulder's [Ecology an
 
 ## Research interests
 * evolutionary ecology
-* climate change
+* global change ecology
+* data visualization
